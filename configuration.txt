@@ -1,0 +1,29 @@
+
+social site1
+http://localhost:8080/social1/index.html
+social1 --- service name
+org.sc1  ----  package name
+http://localhost:8080/social1/social1?WSDL
+***************************************
+social site2
+http://localhost:8080/social2/index.html
+social2 --- service name
+org.sc2  ----  package name
+http://localhost:8080/social2/social1?WSDL
+
+
+
+****************************************
+social site2final
+social2 ---- service name
+
+org.sc2 --package name
+http://localhost:8080/soclal2final/social2?WSDL
+
+
+****************************************
+
+client dashboard
+package for first social site ---- org.scl1
+
+package for second social site ---- org.sc2
